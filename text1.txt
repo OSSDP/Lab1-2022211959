@@ -1,2 +1,3 @@
 this is text1
-change on b2
+change on b2 & change on c4
+conflict fixed
